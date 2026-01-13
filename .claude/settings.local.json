@@ -1,16 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:kilo.ai)",
       "Bash(npm run validate:*)",
       "Bash(npm run generate:*)",
-      "WebFetch(domain:sillytavern.app)",
-      "WebFetch(domain:docs.roocode.com)",
-      "WebFetch(domain:aider.chat)",
-      "WebFetch(domain:github.com)",
       "Bash(curl:*)",
-      "WebFetch(domain:mastra.ai)",
-      "WebFetch(domain:www.librechat.ai)"
+      "WebFetch"
     ]
   }
 }

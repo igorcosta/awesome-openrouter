@@ -19,6 +19,18 @@ AI pair programming in your terminal that lets you work with LLMs to build on yo
 
 ---
 
+### [Chorus](https://github.com/meltylabs/chorus)
+
+<img src="./apps/chorus/logo.png" alt="Chorus logo" width="64" height="64">
+
+A macOS desktop app that provides unified access to multiple AI models and services. All the AI, on your Mac.
+
+`chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/meltylabs/chorus)
+
+[Documentation](https://github.com/meltylabs/chorus#readme)
+
+---
+
 ### [GitHub Copilot](https://github.com/features/copilot)
 
 <img src="./apps/github-copilot/logo.png" alt="GitHub Copilot logo" width="64" height="64">

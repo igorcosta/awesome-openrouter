@@ -1,0 +1,8 @@
+name: "Chorus"
+description: "A macOS desktop app that provides unified access to multiple AI models and services. All the AI, on your Mac."
+url: "https://github.com/meltylabs/chorus"
+docs: "https://github.com/meltylabs/chorus#readme"
+tags:
+  - chat
+open_source: "https://github.com/meltylabs/chorus"
+date_added: "2025-01-13"
