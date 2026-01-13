@@ -7,6 +7,30 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 ## Apps
 
+### [Aider](https://aider.chat)
+
+<img src="./apps/aider/logo.png" alt="Aider logo" width="64" height="64">
+
+AI pair programming in your terminal that lets you work with LLMs to build on your existing codebase.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Aider-AI/aider)
+
+[Documentation](https://aider.chat/docs/llms/openrouter.html)
+
+---
+
+### [GitHub Copilot](https://github.com/features/copilot)
+
+<img src="./apps/github-copilot/logo.png" alt="GitHub Copilot logo" width="64" height="64">
+
+Bring your own OpenRouter key to VS Code and GitHub Copilot to use Agent mode with any model.
+
+`coding`
+
+[Documentation](https://code.visualstudio.com/docs/copilot/language-models#_bring-your-own-language-model-key)
+
+---
+
 ### [Kilo Code](https://kilo.ai)
 
 <img src="./apps/kilocode/logo.png" alt="Kilo Code logo" width="64" height="64">
@@ -16,6 +40,42 @@ An AI-powered coding assistant for VS Code that supports multiple AI providers a
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Kilo-Org/kilocode)
 
 [Documentation](https://kilo.ai/docs/providers/openrouter)
+
+---
+
+### [LibreChat](https://www.librechat.ai)
+
+<img src="./apps/librechat/logo.png" alt="LibreChat logo" width="64" height="64">
+
+An open-source chat application for all your AI conversations, compatible with any AI provider.
+
+`chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/danny-avila/LibreChat)
+
+[Documentation](https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/openrouter)
+
+---
+
+### [Mastra](https://mastra.ai)
+
+<img src="./apps/mastra/logo.png" alt="Mastra logo" width="64" height="64">
+
+An open-source TypeScript framework for building AI-powered applications and agents.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/mastra-ai/mastra)
+
+[Documentation](https://mastra.ai/docs/frameworks/agentic-uis/openrouter)
+
+---
+
+### [Roo Code](https://roocode.com)
+
+<img src="./apps/roo-code/logo.png" alt="Roo Code logo" width="64" height="64">
+
+An AI-powered autonomous coding agent that lives in your editor.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/RooCodeInc/Roo-Code)
+
+[Documentation](https://docs.roocode.com/providers/openrouter)
 
 ---
 

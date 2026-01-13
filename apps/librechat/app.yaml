@@ -1,0 +1,8 @@
+name: "LibreChat"
+description: "An open-source chat application for all your AI conversations, compatible with any AI provider."
+url: "https://www.librechat.ai"
+docs: "https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/openrouter"
+tags:
+  - chat
+open_source: "https://github.com/danny-avila/LibreChat"
+date_added: "2026-01-13"

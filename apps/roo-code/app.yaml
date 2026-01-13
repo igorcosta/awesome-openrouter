@@ -1,0 +1,8 @@
+name: "Roo Code"
+description: "An AI-powered autonomous coding agent that lives in your editor."
+url: "https://roocode.com"
+docs: "https://docs.roocode.com/providers/openrouter"
+tags:
+  - coding
+open_source: "https://github.com/RooCodeInc/Roo-Code"
+date_added: "2026-01-13"

@@ -1,0 +1,48 @@
+# Claude Notes
+
+## What This Repo Is
+
+A curated registry of apps and tools that integrate with [OpenRouter](https://openrouter.ai). Each app has a directory in `apps/` with metadata and a logo.
+
+## Adding a New App
+
+1. **Create directory**: `apps/{app-name}/`
+2. **Create `app.yaml`** with this format:
+   ```yaml
+   name: "App Name"
+   description: "One or two sentences about the app (max 300 chars)."
+   url: "https://app-website.com"
+   docs: "https://app-website.com/docs/openrouter"
+   tags:
+     - coding  # options: chat, coding, productivity, creative, research, other
+   open_source: "https://github.com/org/repo"  # optional
+   date_added: "YYYY-MM-DD"
+   ```
+3. **Add `logo.png`**: Square PNG image (128x128 or 256x256 recommended)
+
+## Finding Logos
+
+Try these sources in order:
+- `/apple-touch-icon.png` on their website
+- GitHub org avatar: `https://avatars.githubusercontent.com/u/{org-id}`
+- VS Code Marketplace icon (for extensions)
+- `/favicon.ico` (last resort, may need conversion)
+
+## Validation & Generation
+
+```bash
+npm run validate   # Validates all app entries
+npm run generate   # Regenerates README.md from app data
+```
+
+## Schema
+
+Full schema definition: `schema/app.schema.json`
+
+Required fields: `name`, `description`, `url`, `docs`, `tags`, `date_added`
+Optional fields: `open_source`
+
+## Useful Reference
+
+- OpenRouter partners page for app info: https://openrouter.ai/partners
+- Check existing entries in `apps/` for format examples

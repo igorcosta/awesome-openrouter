@@ -1,0 +1,8 @@
+name: "Aider"
+description: "AI pair programming in your terminal that lets you work with LLMs to build on your existing codebase."
+url: "https://aider.chat"
+docs: "https://aider.chat/docs/llms/openrouter.html"
+tags:
+  - coding
+open_source: "https://github.com/Aider-AI/aider"
+date_added: "2026-01-13"

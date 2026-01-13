@@ -1,0 +1,8 @@
+name: "Mastra"
+description: "An open-source TypeScript framework for building AI-powered applications and agents."
+url: "https://mastra.ai"
+docs: "https://mastra.ai/docs/frameworks/agentic-uis/openrouter"
+tags:
+  - coding
+open_source: "https://github.com/mastra-ai/mastra"
+date_added: "2026-01-13"

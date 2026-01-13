@@ -1,0 +1,7 @@
+name: "GitHub Copilot"
+description: "Bring your own OpenRouter key to VS Code and GitHub Copilot to use Agent mode with any model."
+url: "https://github.com/features/copilot"
+docs: "https://code.visualstudio.com/docs/copilot/language-models#_bring-your-own-language-model-key"
+tags:
+  - coding
+date_added: "2026-01-13"
